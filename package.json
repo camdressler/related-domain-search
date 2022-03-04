@@ -1,0 +1,18 @@
+{
+  "name": "endpoint-finder",
+  "version": "1.0.0",
+  "description": "Tool to scrape related domains",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Cam",
+  "license": "ISC",
+  "dependencies": {
+    "delay": "^5.0.0",
+    "fs": "^0.0.1-security",
+    "fs-extra": "^10.0.1",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
