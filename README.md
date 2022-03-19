@@ -21,7 +21,7 @@
 <h3 align="center">Endpoint Finder</h3>
 
   <p align="center">
-    A tool to help find endpoints for any given site
+    A tool to help find endpoints for any given site using OTX
     <br />
     <br />
     <a href="https://github.com/camdressler/Endpoint-Finder/issues">Report Bug</a>
