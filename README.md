@@ -21,7 +21,7 @@
 <h3 align="center">Endpoint Finder</h3>
 
   <p align="center">
-    A tool to help find related URLs
+    A tool to help find endpoints for any given site
     <br />
     <br />
     <a href="https://github.com/camdressler/Endpoint-Finder/issues">Report Bug</a>
@@ -57,7 +57,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
- This is my first project in Go so I tried to keep it simple while still creating something with actual utility. Meant to also be an example of a basic API that one might create in Go.
+This tool scrapes a site that finds URLs related to a specific domain. This will dump the URLs that it finds into text files and then will allow you to sort through. Typically one can find useful endpoints in the related domains.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
