@@ -15,18 +15,18 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/camdressler/Password-API">
+  <a href="https://github.com/camdressler/Endpoint-Finder">
   </a>
 
-<h3 align="center">Password-API</h3>
+<h3 align="center">Endpoint Finder</h3>
 
   <p align="center">
-    A simple password API build in Go
+    A tool to help find related URLs
     <br />
     <br />
-    <a href="https://github.com/camdressler/Password-API/issues">Report Bug</a>
+    <a href="https://github.com/camdressler/Endpoint-Finder/issues">Report Bug</a>
     ·
-    <a href="https://github.com/camdressler/Password-API/issues">Request Feature</a>
+    <a href="https://github.com/camdressler/Endpoint-Finder/issues">Request Feature</a>
   </p>
 </div>
 
