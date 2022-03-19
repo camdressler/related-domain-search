@@ -111,7 +111,7 @@ Don't forget to give the project a star! Thanks again!
 Twitter - [@camdressler](https://twitter.com/camdressler) 
 Email - [hello@camdressler.com](mailto:hello@camdressler.com)
 
-Project Link: [https://github.com/camdressler/Walmart-Account-Generator](https://github.com/camdressler/Endpoint-Finder)
+Project Link: [https://github.com/camdressler/Endpoint-Finder](https://github.com/camdressler/Endpoint-Finder)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
