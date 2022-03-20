@@ -7,7 +7,7 @@ console.log("Endpoint Finder v0.0.1\n")
 
 async function start() {
     const config = fs.readJSONSync("./config.json")
-    const URL = config.URL
+    const URL = config.URL.replace(/https?:\/\//, "").replace('/', '')
 
     console.log("Starting for URL", URL)
 
