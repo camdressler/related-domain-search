@@ -74,12 +74,15 @@ Node.js
 
 ### Installation
 
-
 1. Clone the repo
    ```sh
    git clone https://github.com/camdressler/Endpoint-Finder.git
    ```
-
+2. Install dependencies
+   ```sh
+   npm install OR yarn install
+   ```
+   
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ROADMAP -->
